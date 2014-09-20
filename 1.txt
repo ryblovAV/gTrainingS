@@ -1,7 +1,4 @@
-<<<<<<< delta
-first
-=======
 first
 ggg second
 add new master
->>>>>>> local
+

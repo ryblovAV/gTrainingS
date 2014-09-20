@@ -2,4 +2,14 @@ add 3 txt
 
 
 change _my
+<<<<<<< HEAD
+срфт
+
+ф
+ыв
+фы
+в
+фыв’;l’;;ll;jl
+=======
 delta
+>>>>>>> delta
